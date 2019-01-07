@@ -1,6 +1,6 @@
 package org.explore.web.file.upload.controller;
 
-import org.explore.web.file.upload.util.FileUtil;
+import org.explore.util.FileUtil;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
